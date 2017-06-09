@@ -72,7 +72,7 @@ class App extends Component {
                     {/* forever enabled */}
                     <label className="testCase">
                         <input type="radio" checked={true}/>
-                        Controlled checkbox always enabled
+                        Controlled radio always enabled
                     </label>
                     {/* forever disabled with handler */}
                     <label className="testCase">
