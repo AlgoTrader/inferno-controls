@@ -1,0 +1,35 @@
+.App {
+  margin: 10px 20px;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  /*text-align: center;*/
+  padding: 20px;
+  color: #3d464d;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.testCase {
+  display: block;
+  margin: 5px;
+}
+
+code {
+  color: #e73a37;
+}
+
+.checkboxTests, .radioTests {
+  margin: 20px 0px;
+}
+
+.radioGroup {
+  padding: 10px 0px 0px 0px;
+  border: none;
+}
